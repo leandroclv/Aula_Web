@@ -1,2 +1,2 @@
 # Aula_Web
- aulas do prof. Rangel da Uniassau
+ aulas do prof. Rangel da Uninassau
